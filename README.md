@@ -4,13 +4,13 @@ This project aims to classify images of eyes into different categories using mac
 
 ---
 
-## 🚀 **Project Overview**
+## **Project Overview**
 
 The **Eyes Classification** project uses **Convolutional Neural Networks (CNNs)**, one of the most powerful models for image classification tasks. The dataset consists of images labeled as "open" or "closed" eyes. The model is trained to accurately classify these images based on pixel-level features, leveraging deep learning techniques.
 
 ---
 
-## 🏆 **Key Features**
+## **Key Features**
 
 - **Image Preprocessing**: Data augmentation, resizing, and normalization to enhance model generalization.
 - **Deep Learning Model**: A Convolutional Neural Network (CNN) built using **Keras** and **TensorFlow** for image classification.
